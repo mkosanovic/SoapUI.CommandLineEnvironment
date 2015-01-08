@@ -1,0 +1,1 @@
+I made this script to enable acces to soapUI tools without adding them to path
